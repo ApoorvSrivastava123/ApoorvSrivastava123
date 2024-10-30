@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nL3kGgydVy8d2xiSPvH7i1JTYFHlBfWq/view?usp=sharing](https://drive.google.com/file/d/1nL3kGgydVy8d2xiSPvH7i1JTYFHlBfWq/view?usp=sharing)
 
-- ⚡ Fun fact **I have a degree in Electronics Engineering.**
+- ⚡ Fun fact **I have degree in Electronics Engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
