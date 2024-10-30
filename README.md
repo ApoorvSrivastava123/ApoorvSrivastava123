@@ -1,4 +1,6 @@
-![logo](https://github.com/ApoorvSrivastava123/ApoorvSrivastava123/blob/main/bcg.png)
+<p align="center">
+  <img src="https://github.com/ApoorvSrivastava123/ApoorvSrivastava123/blob/main/bcg.png" alt="logo">
+</p>
 <h1 align="center">Hi 👋, I'm Apoorv Srivastava</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
 
@@ -35,7 +37,6 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvsrivastava123&show_icons=true&locale=en&layout=compact" alt="apoorvsrivastava123" /></p>
 
 
 
